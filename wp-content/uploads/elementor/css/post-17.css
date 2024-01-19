@@ -1,0 +1,147 @@
+.elementor-kit-17{--e-global-color-primary:#6AB1D3;--e-global-color-secondary:#FB5C64;--e-global-color-text:#FFF8EE;--e-global-color-accent:#FE972D;--e-global-color-76a49ae:#1B1F28;--e-global-color-ff4e364:#FFF8EE;--e-global-color-94561df:#96D1F2;--e-global-color-24a9ce9:#F7A8AE;--e-global-color-a97b7a3:#FAA54E;--e-global-color-2248e75:#3CB9AA;--e-global-typography-primary-font-family:"hobeaux";--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Atten";--e-global-typography-text-font-size:1.5em;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:1.3em;--e-global-typography-accent-font-family:"Atten";--e-global-typography-accent-font-size:1.2em;--e-global-typography-accent-font-weight:400;--e-global-typography-accent-line-height:1.3em;font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-kit-17 a{color:var( --e-global-color-secondary );}.elementor-kit-17 a:hover{color:#494C53;}.elementor-kit-17 h1{font-family:"hobeaux", Sans-serif;}.elementor-kit-17 h2{font-family:"hobeaux", Sans-serif;font-size:4em;}.elementor-kit-17 h3{font-family:"hobeaux", Sans-serif;font-size:2em;}.elementor-kit-17 h4{font-family:"hobeaux", Sans-serif;}.elementor-kit-17 h5{font-family:"hobeaux", Sans-serif;}.elementor-kit-17 h6{font-family:"hobeaux", Sans-serif;}.elementor-kit-17 button,.elementor-kit-17 input[type="button"],.elementor-kit-17 input[type="submit"],.elementor-kit-17 .elementor-button{color:#1B1F28;background-color:#FFF8EE;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1200px){.elementor-kit-17{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-kit-17 h2{font-size:3em;}.elementor-kit-17 h3{font-size:2em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:1024px){.elementor-kit-17{--e-global-typography-text-font-size:1.2em;--e-global-typography-accent-font-size:1em;font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//* Links */
+.dark-link a {
+    color: #1B1F28;
+}
+.dark-link a:hover {
+    color: #494C53;
+}
+.light-link a {
+    color: #FFF8EE;
+}
+.light-link a:hover {
+    color: #76797E;
+}
+.red-link a {
+    color: #F7A8AE;
+}
+.red-link a:hover {
+    color: #F9C2C6;
+}
+.green-link a {
+    color: #309488;
+}
+.green-link a:hover {
+    color: #77CEC4;
+}
+.orange-link a {
+    color: #FAA54E;
+}
+.orange-link a:hover {
+    color: #FCC083;
+}
+
+/* Forms */
+.gform_wrapper form {
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+    background-color: #FFFEFD;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    font-family: Atten, sans-serif;
+}
+.gform_wrapper form h3 {
+    font-family: Hobeaux, sans-serif;
+    margin-bottom: 0;
+}
+.gchoice {
+    margin-bottom: 0.5em;
+}
+/* Entire Form Base Style */
+body .gform_wrapper .gform_body {
+    font-size: 1rem;
+}
+/* Field Headers */
+body .gform_wrapper .gform_body .gfield_label {
+    font-size: 1rem;
+}
+/* Field Descriptions */
+body .gform_wrapper .gform_body .gfield_description {
+    padding: 0 !important;
+    font-style: italic;
+    font-size: 0.9rem;
+    line-height: 1.2rem;
+}
+/* Field Descriptions for left-aligned forms */
+body .gform_wrapper .gform_body .left_label .gfield_description:not(.ginput_counter):not(.gform_fileupload_rules) {
+    max-width: 70%;
+    margin-left: 30%;
+}
+/* Section Descriptions for left-aligned forms */
+body .gform_wrapper .gform_body .left_label .gsection_description {
+    width: 100% !important;
+}
+/* HTML elements for left-aligned forms */
+.gform_wrapper.gravity-theme .left_label .gfield_html_formatted {
+    margin-left: 0 !important;
+}
+/* Responsive HTML elements for left-aligned forms */
+@media (max-width: 640px) {
+    /* Field Descriptions for left-aligned forms */
+    body .gform_wrapper .gform_body .left_label .gfield_description:not(.ginput_counter) {
+        max-width: 100%;
+        margin-left: 0;
+    }
+    .gform_wrapper.gravity-theme .gfield_radio {
+        margin-top: 1em;
+    }
+}
+/* Radio Button Vertical Alignment */
+.gform_wrapper.gravity-theme .gfield-choice-input+label {
+    vertical-align: top !important;
+}
+.gform_wrapper.gravity-theme .gfield-choice-input {
+    vertical-align: top !important;
+}
+.gform_required_legend {
+    display: none !important;
+}
+.b-hide .ginput_product_price_label {
+    display: none; 
+}
+input[type="submit"].gform_button {
+  padding: 1% 2%;
+  background-color: transparent;
+  border: 2px solid #63C7BB;
+  font-size: 1.2em;
+  color: #63C7BB;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  -moz-transition: background 0.4s, color 0.4s, font-size 0.05s, width 0.4s, border 0.4s;
+  -o-transition: background 0.4s, color 0.4s, font-size 0.05s, width 0.4s, border 0.4s;
+  -webkit-transition: background 0.4s, color 0.4s, font-size 0.05s, width 0.4s, border 0.4s;
+  transition: background 0.4s, color 0.4s, font-size 0.05s, width 0.4s, border 0.4s;
+}
+input[type="submit"].gform_button:hover {
+  background-color: #63C7BB;
+  color: #FFF8EE;
+}
+.gfield_validation_message, .validation_message, .gform_validation_errors {
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+}
+.validation_message {
+  padding: 12px !important;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'hobeaux';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://otafest.com/wp-content/uploads/hobeauxbold-webfont.woff2') format('woff2'),
+		url('https://otafest.com/wp-content/uploads/hobeauxbold-webfont.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Atten';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://otafest.com/wp-content/uploads/attenroundnewregular-webfont.woff2') format('woff2'),
+		url('https://otafest.com/wp-content/uploads/attenroundnewregular-webfont.woff') format('woff');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,93 @@
+.ota__marquee-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    overflow-x: hidden !important;
+    position: relative;
+    width: 100%;
+}
+
+.ota__marquee-wrapper>.ota__marquee {
+    align-items: center;
+    animation: ota__scroll var(--duration) linear var(--delay) var(--loops);
+    animation-direction: var(--direction);
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    min-width: var(--min-width);
+    z-index: 1;
+}
+
+@keyframes ota__scroll {
+    0% {
+        transform: translate(0)
+    }
+
+    to {
+        transform: translate(-100%)
+    }
+}
+
+.ota__overflow-hidden {
+    overflow: hidden;
+}
+
+.ota__items-center {
+    align-items: center;
+}
+
+.ota__w-full {
+    width: 100%;
+}
+
+.ota__flex {
+    display: flex;
+}
+
+ul.ota__carousel {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ota__flex-1 {
+    flex: 1 1 0%;
+}
+
+.ota__flex-col {
+    flex-direction: column;
+}
+
+a.ota__carousel {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.ota__logo {
+    --tw-scale-x: .75;
+    --tw-scale-y: .75;
+    height: 80px;
+    max-width: 150px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(.75) scaleY(.75);
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+    transition-duration: .15s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+}
+
+.ota__carousel-text {
+    width:100%;
+}
+
+.ota__whitespace-nowrap {
+    white-space: nowrap;
+}
+
+.ota__marquee-wrapper:hover div {
+    animation-play-state: var(--pauseOnHover)
+}
+
+.ota__marquee-wrapper:active div {
+    animation-play-state: var(--pauseOnClick)
+}

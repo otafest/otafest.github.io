@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on January 19, 2024 at 2:05 pm by All in One SEO v4.5.4 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Otafest 2024</title>
+		<link><![CDATA[]]></link>
+		<description><![CDATA[Otafest 2024]]></description>
+		<lastBuildDate><![CDATA[Tue, 26 Dec 2023 17:11:20 +0000]]></lastBuildDate>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<atom:link href="/sitemap.rss" rel="self" type="application/rss+xml" />
+		<ttl><![CDATA[60]]></ttl>
+
+		<item>
+			<guid><![CDATA[/cafe/]]></guid>
+			<link><![CDATA[/cafe/]]></link>
+			<title>Café Reservation</title>
+			<pubDate><![CDATA[Tue, 26 Dec 2023 17:11:20 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/]]></guid>
+			<link><![CDATA[/]]></link>
+			<title>2024</title>
+			<pubDate><![CDATA[Tue, 02 Jan 2024 18:35:43 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/artists/]]></guid>
+			<link><![CDATA[/artists/]]></link>
+			<title>Artist Alley Application</title>
+			<pubDate><![CDATA[Tue, 02 Jan 2024 17:41:12 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/howitsmade/]]></guid>
+			<link><![CDATA[/howitsmade/]]></link>
+			<title>Cosplay How It&#8217;s Made</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:45:07 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/auction/]]></guid>
+			<link><![CDATA[/auction/]]></link>
+			<title>Auction Submissions</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:44:47 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/idol-festival/]]></guid>
+			<link><![CDATA[/idol-festival/]]></link>
+			<title>Idol Festival</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:44:28 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/cafe/apply/]]></guid>
+			<link><![CDATA[/cafe/apply/]]></link>
+			<title>Café Application</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:31:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/policies/]]></guid>
+			<link><![CDATA[/policies/]]></link>
+			<title>Policies</title>
+			<pubDate><![CDATA[Sun, 29 Oct 2023 06:29:30 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/vendors/]]></guid>
+			<link><![CDATA[/vendors/]]></link>
+			<title>Vendor Application</title>
+			<pubDate><![CDATA[Sun, 19 Nov 2023 17:50:59 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/tips/]]></guid>
+			<link><![CDATA[/tips/]]></link>
+			<title>Otafest Tips &#038; Tricks</title>
+			<pubDate><![CDATA[Sun, 19 Nov 2023 16:44:38 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/panelists/]]></guid>
+			<link><![CDATA[/panelists/]]></link>
+			<title>Panel Application</title>
+			<pubDate><![CDATA[Mon, 13 Nov 2023 19:33:45 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/sketchdrive/]]></guid>
+			<link><![CDATA[/sketchdrive/]]></link>
+			<title>Sketch Drive Application</title>
+			<pubDate><![CDATA[Mon, 01 Jan 2024 23:01:02 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/volunteer/]]></guid>
+			<link><![CDATA[/volunteer/]]></link>
+			<title>Volunteer Application</title>
+			<pubDate><![CDATA[Fri, 03 Nov 2023 16:53:00 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/otafactor/]]></guid>
+			<link><![CDATA[/otafactor/]]></link>
+			<title>Ota Factor</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:28:00 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/maps/]]></guid>
+			<link><![CDATA[/maps/]]></link>
+			<title>Maps</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:26:08 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/cosplay/stars/]]></guid>
+			<link><![CDATA[/cosplay/stars/]]></link>
+			<title>Stars of Cosplay</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:22:47 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/amv/]]></guid>
+			<link><![CDATA[/amv/]]></link>
+			<title>AMV Contest</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:21:12 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/pokemon/]]></guid>
+			<link><![CDATA[/pokemon/]]></link>
+			<title>Pokémon League</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:20:36 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/exhibitors/]]></guid>
+			<link><![CDATA[/exhibitors/]]></link>
+			<title>Exhibitor Hall</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:19:34 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/cosplay/]]></guid>
+			<link><![CDATA[/cosplay/]]></link>
+			<title>Cosplay</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:17:54 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/conbini/]]></guid>
+			<link><![CDATA[/conbini/]]></link>
+			<title>CONbini Menu</title>
+			<pubDate><![CDATA[Tue, 12 Sep 2023 02:17:19 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/cosplay/showcase/]]></guid>
+			<link><![CDATA[/cosplay/showcase/]]></link>
+			<title>Cosplay Showcase Contest</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:19:38 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/cosplay/skit/]]></guid>
+			<link><![CDATA[/cosplay/skit/]]></link>
+			<title>Cosplay Skit Contest</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 23:19:34 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/gunpla/]]></guid>
+			<link><![CDATA[/gunpla/]]></link>
+			<title>Gunpla Hangar Showcase</title>
+			<pubDate><![CDATA[Thu, 05 Oct 2023 22:47:39 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/about/]]></guid>
+			<link><![CDATA[/about/]]></link>
+			<title>About</title>
+			<pubDate><![CDATA[Mon, 11 Sep 2023 21:27:15 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[/cosplay/fashion/]]></guid>
+			<link><![CDATA[/cosplay/fashion/]]></link>
+			<title>Cosplay Fashion Show</title>
+			<pubDate><![CDATA[Mon, 07 Aug 2023 16:08:13 +0000]]></pubDate>
+		</item>
+				</channel>
+</rss>
